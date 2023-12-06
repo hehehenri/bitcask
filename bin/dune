@@ -1,0 +1,5 @@
+(executable
+ (public_name bitcask)
+ (name main)
+ (preprocess (pps ppx_deriving_yojson))
+ (libraries bitcask ulid yojson ppx_deriving_yojson.runtime))
