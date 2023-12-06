@@ -1,4 +1,4 @@
-# OCaml Bitcask
+# Bitcask
 
 ## Overview
 
