@@ -2,7 +2,7 @@
 
 ## Overview
 
-OCaml Bitcask is a simple implementation of the Bitcask storage system in OCaml. Bitcask is a key/value store that provides fast and predictable performance with a straightforward design.
+This is a simple implementation of the Bitcask storage system in OCaml. Bitcask is a key/value store that provides fast and predictable performance with a straightforward design.
 
 ## Features
 
