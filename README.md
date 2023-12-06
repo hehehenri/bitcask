@@ -16,8 +16,8 @@ OCaml Bitcask is a simple implementation of the Bitcask storage system in OCaml.
 1. Clone the repository:
 
   ```bash
-  git clone https://github.com/yourusername/ocaml-bitcask.git
-  cd ocaml-bitcask
+  git clone https://github.com/hnrbs/bitcask.git
+  cd bitcask
   ```
 
 2. Install opam dependencies:
