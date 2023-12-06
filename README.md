@@ -1,5 +1,7 @@
 # Bitcask
 
+**THIS IS UNFINISHED! Keep your expectations low. It may not work**
+
 ## Overview
 
 This is a simple implementation of the Bitcask storage system in OCaml. Bitcask is a key/value store that provides fast and predictable performance with a straightforward design.
@@ -32,9 +34,9 @@ This is a simple implementation of the Bitcask storage system in OCaml. Bitcask 
 
 ## References
 
-1. [Bitcask Intro](https://riak.com/assets/bitcask-intro.pdf) - Justin Sheehy
+- [Bitcask Intro](https://riak.com/assets/bitcask-intro.pdf) - Justin Sheehy
 
-2. [Paper Notes: Bitcask](https://distributed-computing-musings.com/2023/01/paper-notes-bitcask-a-log-structured-hash-table-for-fast-key-value-data/) - varunu28
+- [Paper Notes: Bitcask](https://distributed-computing-musings.com/2023/01/paper-notes-bitcask-a-log-structured-hash-table-for-fast-key-value-data/) - varunu28
 
 ## License
 This project is licensed under the MIT License.
